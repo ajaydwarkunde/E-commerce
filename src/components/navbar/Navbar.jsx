@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Navbar.css';
 
 import logo from '../assets/logoCustom.jpg'
-import login from '../assets/loginCustom.jpg'
+
 import cart1 from '../assets/cart1 (Custom).jpg'
 import { Link } from 'react-router-dom';
 
